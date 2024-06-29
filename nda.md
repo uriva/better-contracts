@@ -26,9 +26,9 @@ NOW, THEREFORE, the Parties hereby agree as follows:
 
 9. **Entire Agreement**. This Agreement constitutes the entire agreement with respect to the Confidential Information disclosed herein and supersedes all prior or contemporaneous oral or written agreements concerning such Confidential Information. This Agreement may not be amended except by the written agreement signed by authorized representatives of both Parties.
 
-10. Term. This Agreement shall govern the communications relating to Confidential Information between the Parties during the period of one (1) year as of the Effective Date, unless terminated earlier by either Party upon a thirty (30) day written notice to the other Party. The obligations set forth in this Agreement shall bind the Parties for a period of five (5) years from the date of termination or expiration of this Agreement.
+10. **Term**. This Agreement shall govern the communications relating to Confidential Information between the Parties during the period of one (1) year as of the Effective Date, unless terminated earlier by either Party upon a thirty (30) day written notice to the other Party. The obligations set forth in this Agreement shall bind the Parties for a period of five (5) years from the date of termination or expiration of this Agreement.
 
-11. Assignment. Except for in connection with a merger, consolidation, sale of all or the majority of the equity interests of a Party, or a sale of all or substantially all of the assets of a Party, this Agreement shall not be assignable by either Party without the prior written consent of the other Party, and any purported assignment not permitted hereunder shall be construed null and void.
+11. **Assignment**. Except for in connection with a merger, consolidation, sale of all or the majority of the equity interests of a Party, or a sale of all or substantially all of the assets of a Party, this Agreement shall not be assignable by either Party without the prior written consent of the other Party, and any purported assignment not permitted hereunder shall be construed null and void.
 
 IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives.
 
