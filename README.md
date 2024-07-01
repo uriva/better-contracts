@@ -8,7 +8,7 @@ For founders, they make it hard to collaborate freely on multiple projects.
 
 For employees, they imply all creations belong to some entity, even those unrelated to it.
 
-In general they make people time-prisoners, forbidding them from taking new commitments, or adapt change their commitment level to changes in their life.
+In general they make people time-prisoners, forbidding them from taking new commitments, or adapt their commitment level to changes in their life.
 
 ## Solution
 
