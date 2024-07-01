@@ -4,26 +4,33 @@
 
 Contracts in the startup world are too limiting.
 
-They make it hard for people to collaborate freely on multiple projects. They imply all creations belong to an entity, sometimes even if they aren't related to it.
+For founders, they make it hard to collaborate freely on multiple projects.
 
-They make people time-prisoners, forbidding them from taking new commitments, or change their commitment level.
+For employees, they imply all creations belong to some entity, even those unrelated to it.
+
+In general they make people time-prisoners, forbidding them from taking new commitments, or adapt change their commitment level to changes in their life.
 
 ## Solution
 
-Instead, we would like a system that:
+I would like to present the following "radical" notions:
 
-- Allows an individual to collaborate with different people on different projects.
+- Like code, contracts should be short, concise and easy to read, even if you are not a lawyer.
+- Adapt the contracts to what fits you, instead of adapting your conduct to some imaginary often obsolete standard.
+
+For this problem we would like a system that:
+
+- Allows individuals to collaborate with others on different projects.
 - Allows collaborators to dynamically determine how much of their week they dedicate to a project.
   Something personal came up? Lost interest? No problem, You can work less on that project.
-- Does not glorify or give "the founders" any special status or rights.
-  In my experience your importance to the project is not always a function of when you joined.
-- Compensates collaborators on things that already happened, not speculation about what they will do.
+- Does not glorify or give "founders" any special status or rights.
+  Someone's importance to the project is not always a function of when you joined, or the title they hold.
+- Compensates collaborators on things that already happened, not speculation about what they will do in the future.
 
 This repo attempts to imagine what such a system might look like.
 
 ## FAQ
 
-### Is this like Slicing Pie?
+### Is this like "Slicing Pie"?
 
 Yes, these contracts are inspired by Slicing Pie. To those unfamiliar, slicing pie is a method that tries to acheive these goals. It works like this:
 
@@ -33,9 +40,15 @@ Yes, these contracts are inspired by Slicing Pie. To those unfamiliar, slicing p
 
 ### Is counting hours a good way to measure contribution?
 
-While this removes the risk of bringing on a cofounder and giving him half of your project based on good intentions, hour reporting sounds weird. Are hours really what we want to compensate for? After all people can work for hours and not create any value.
+The goal of hours reporting is to remove the risk of bringing on a cofounder and giving him half of your project based on good intentions alone.
 
-The question however is what is the alternative? Some efforts do not create immediate value.
+However to many hour reporting sounds weird. Are hours really what we want to compensate for?
+
+After all people can work for hours and not create any value. Also what prevents false reporting?
+
+The question however is about the lesser of multiple evils, or in other words - what is the alternative.
+
+Some efforts do not create immediate value. Trust is fundamental anyway.
 
 ### What if someone just reports many hours, but not creating value?
 
