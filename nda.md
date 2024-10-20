@@ -32,18 +32,18 @@ NOW, THEREFORE, the Parties hereby agree as follows:
 
 IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives.
 
-Signature:
+### Signature of party A:
 
 Name:
 
-Title:
+On behalf of entity (if applicable):
 
 Date:
 
-Signature:
+### Signature of party B:
 
 Name:
 
-Title:
+On behalf of entity (if applicable):
 
 Date:
